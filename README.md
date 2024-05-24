@@ -1,5 +1,5 @@
 # Sales-Report-
-# My Fisrt Power BI Project
+# My First Power BI Project
 
 This is an example project.
 
