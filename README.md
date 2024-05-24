@@ -1,5 +1,5 @@
 # Sales-Report-
-# My Project
+# My Fisrt Power BI Project
 
 This is an example project.
 
